@@ -1,0 +1,1 @@
+export const ADD_LOGGED_USER = 'ADD_LOGGED_USER';
